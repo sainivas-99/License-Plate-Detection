@@ -1,0 +1,6 @@
+names:
+- vehicle_plate
+nc: 1
+test: /content/drive/MyDrive/Colab Notebooks/ML/datasets/output/test
+train: /content/drive/MyDrive/Colab Notebooks/ML/datasets/output/train
+val: /content/drive/MyDrive/Colab Notebooks/ML/datasets/output/valid
